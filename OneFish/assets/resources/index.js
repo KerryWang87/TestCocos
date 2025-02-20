@@ -1,0 +1,22 @@
+System.register("chunks:///_virtual/resources",["./SpriteAnimationPlayer.ts"],(function(){return{setters:[null],execute:function(){}}}));
+
+System.register("chunks:///_virtual/SpriteAnimationPlayer.ts",["./rollupPluginModLoBabelHelpers.js","cc"],(function(t){var e,i,r,n,a,s,o,p,h,l;return{setters:[function(t){e=t.applyDecoratedDescriptor,i=t.inheritsLoose,r=t.initializerDefineProperty,n=t.assertThisInitialized},function(t){a=t.cclegacy,s=t._decorator,o=t.SpriteFrame,p=t.EventHandler,h=t.Sprite,l=t.Component}],execute:function(){var u,c,m,f,F,S,_,d,y,b;a._RF.push({},"f0eb7XjzpdAqoZIrwOf3igG","SpriteAnimationPlayer",void 0);var g=s.ccclass,v=s.property,T=s.executeInEditMode;t("SpriteAnimationPlayer",(u=g("SpriteAnimationPlayer"),c=v([o]),m=v({type:[p],tooltip:"完成事件"}),u(f=T((S=e((F=function(t){function e(){for(var e,i=arguments.length,a=new Array(i),s=0;s<i;s++)a[s]=arguments[s];return e=t.call.apply(t,[this].concat(a))||this,r(e,"FPS",S,n(e)),r(e,"Loop",_,n(e)),r(e,"RandomStartFrame",d,n(e)),r(e,"SpriteFrames",y,n(e)),r(e,"finishEvents",b,n(e)),e._outputSprite=void 0,e._secondsToWait=0,e._currentFrame=0,e._deltaTime=0,e._frameDelta=0,e._frameOffset=0,e}i(e,t);var a=e.prototype;return a.playFrame=function(){this._currentFrame%=this.SpriteFrames.length,this.SpriteFrames.length>0&&this.setSpriteFrame(this._currentFrame)},a.playFinish=function(){this.finishEvents&&p.emitEvents(this.finishEvents),this.Loop?this.playFrame():this.reset()},a.reset=function(){this._deltaTime=0,this._currentFrame=0,this.setSpriteFrame(0)},a.Init=function(){this.calculateSecondsToWait(),this._frameOffset=this.RandomStartFrame?Math.floor(Math.random()*this.SpriteFrames.length):0,this.reset()},a.onLoad=function(){this._outputSprite=this.getComponent(h)},a.onEnable=function(){this.Init(),this.playFrame()},a.update=function(t){this._deltaTime+=t,this._deltaTime>=this._secondsToWait&&(this._frameDelta=Math.floor(this._deltaTime/this._secondsToWait),this._deltaTime%=this._secondsToWait,this.updateFrame())},a.onDisable=function(){this.reset()},a.onDestroy=function(){this._outputSprite=null},a.updateFrame=function(){this._currentFrame+=this._frameDelta,this._currentFrame<this.SpriteFrames.length?this.playFrame():this.playFinish()},a.setSpriteFrame=function(t){0<=(t=(t+this._frameOffset)%this.SpriteFrames.length)&&t<this.SpriteFrames.length&&this._outputSprite&&(this._outputSprite.spriteFrame=this.SpriteFrames[t])},a.setUpSpriteFrames=function(t){for(var e=0;e<t.length;e++)this.SpriteFrames[e]=t[e]},a.calculateSecondsToWait=function(){this.FPS>0?this._secondsToWait=1/this.FPS:this._secondsToWait=0},e}(l)).prototype,"FPS",[v],{configurable:!0,enumerable:!0,writable:!0,initializer:function(){return 30}}),_=e(F.prototype,"Loop",[v],{configurable:!0,enumerable:!0,writable:!0,initializer:function(){return!0}}),d=e(F.prototype,"RandomStartFrame",[v],{configurable:!0,enumerable:!0,writable:!0,initializer:function(){return!1}}),y=e(F.prototype,"SpriteFrames",[c],{configurable:!0,enumerable:!0,writable:!0,initializer:function(){return[]}}),b=e(F.prototype,"finishEvents",[m],{configurable:!0,enumerable:!0,writable:!0,initializer:function(){return[]}}),f=F))||f)||f));a._RF.pop()}}}));
+
+(function(r) {
+  r('virtual:///prerequisite-imports/resources', 'chunks:///_virtual/resources'); 
+})(function(mid, cid) {
+    System.register(mid, [cid], function (_export, _context) {
+    return {
+        setters: [function(_m) {
+            var _exportObj = {};
+
+            for (var _key in _m) {
+              if (_key !== "default" && _key !== "__esModule") _exportObj[_key] = _m[_key];
+            }
+      
+            _export(_exportObj);
+        }],
+        execute: function () { }
+    };
+    });
+});
