@@ -1,0 +1,153 @@
+
+Vampire_SP_BG01.png
+size: 1782, 1606
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+images/Candlestick
+  rotate: false
+  xy: 1473, 725
+  size: 36, 40
+  orig: 64, 64
+  offset: 14, 12
+  index: -1
+images/boss_house_blue
+  rotate: false
+  xy: 2, 804
+  size: 1280, 800
+  orig: 1280, 800
+  offset: 0, 0
+  index: -1
+images/boss_house_red
+  rotate: false
+  xy: 2, 2
+  size: 1280, 800
+  orig: 1280, 800
+  offset: 0, 0
+  index: -1
+images/circle
+  rotate: false
+  xy: 1284, 657
+  size: 187, 230
+  orig: 256, 256
+  offset: 34, 18
+  index: -1
+images/ef_star_frank003_2
+  rotate: false
+  xy: 1284, 1107
+  size: 496, 497
+  orig: 512, 512
+  offset: 10, 8
+  index: -1
+images/fire3/fire_0
+  rotate: true
+  xy: 1526, 913
+  size: 62, 120
+  orig: 62, 120
+  offset: 0, 0
+  index: -1
+images/fire3/fire_1
+  rotate: false
+  xy: 1284, 157
+  size: 62, 120
+  orig: 62, 120
+  offset: 0, 0
+  index: -1
+images/fire3/fire_11
+  rotate: true
+  xy: 1648, 913
+  size: 62, 120
+  orig: 62, 120
+  offset: 0, 0
+  index: -1
+images/fire3/fire_12
+  rotate: false
+  xy: 1284, 35
+  size: 62, 120
+  orig: 62, 120
+  offset: 0, 0
+  index: -1
+images/fire3/fire_14
+  rotate: false
+  xy: 1348, 157
+  size: 62, 120
+  orig: 62, 120
+  offset: 0, 0
+  index: -1
+images/fire3/fire_2
+  rotate: false
+  xy: 1348, 35
+  size: 62, 120
+  orig: 62, 120
+  offset: 0, 0
+  index: -1
+images/fire3/fire_4
+  rotate: false
+  xy: 1414, 535
+  size: 62, 120
+  orig: 62, 120
+  offset: 0, 0
+  index: -1
+images/fire3/fire_5
+  rotate: false
+  xy: 1414, 413
+  size: 62, 120
+  orig: 62, 120
+  offset: 0, 0
+  index: -1
+images/fire3/fire_7
+  rotate: false
+  xy: 1414, 291
+  size: 62, 120
+  orig: 62, 120
+  offset: 0, 0
+  index: -1
+images/fire3/fire_9
+  rotate: false
+  xy: 1473, 767
+  size: 62, 120
+  orig: 62, 120
+  offset: 0, 0
+  index: -1
+images/fire4/fire0000
+  rotate: false
+  xy: 1284, 531
+  size: 128, 124
+  orig: 128, 124
+  offset: 0, 0
+  index: -1
+images/fire4/fire0009
+  rotate: true
+  xy: 1656, 977
+  size: 128, 124
+  orig: 128, 124
+  offset: 0, 0
+  index: -1
+images/fire4/fire0018
+  rotate: false
+  xy: 1284, 405
+  size: 128, 124
+  orig: 128, 124
+  offset: 0, 0
+  index: -1
+images/fire4/fire0027
+  rotate: false
+  xy: 1284, 279
+  size: 128, 124
+  orig: 128, 124
+  offset: 0, 0
+  index: -1
+images/mask
+  rotate: false
+  xy: 1284, 889
+  size: 240, 216
+  orig: 250, 242
+  offset: 5, 26
+  index: -1
+images/mask2
+  rotate: false
+  xy: 1526, 977
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
