@@ -1,0 +1,153 @@
+
+Vampire_BG01.png
+size: 1887, 932
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+images/Fx_fort04_bullet
+  rotate: false
+  xy: 1796, 845
+  size: 86, 86
+  orig: 128, 128
+  offset: 21, 19
+  index: -1
+images/Vampire_BG01
+  rotate: false
+  xy: 1, 130
+  size: 1281, 801
+  orig: 1281, 801
+  offset: 0, 0
+  index: -1
+images/ef_smoke_jed010
+  rotate: true
+  xy: 1283, 222
+  size: 223, 216
+  orig: 256, 256
+  offset: 22, 29
+  index: -1
+images/fire/1
+  rotate: false
+  xy: 1796, 780
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+images/fire/2
+  rotate: false
+  xy: 1796, 715
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+images/fire/3
+  rotate: false
+  xy: 1796, 650
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+images/fire/4
+  rotate: false
+  xy: 1796, 585
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+images/light
+  rotate: true
+  xy: 1283, 446
+  size: 485, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+images/windows_light/window_light_10
+  rotate: true
+  xy: 1, 1
+  size: 128, 216
+  orig: 128, 216
+  offset: 0, 0
+  index: -1
+images/windows_light/window_light_11
+  rotate: true
+  xy: 218, 1
+  size: 128, 216
+  orig: 128, 216
+  offset: 0, 0
+  index: -1
+images/windows_light/window_light_12
+  rotate: true
+  xy: 435, 1
+  size: 128, 216
+  orig: 128, 216
+  offset: 0, 0
+  index: -1
+images/windows_light/window_light_13
+  rotate: true
+  xy: 652, 1
+  size: 128, 216
+  orig: 128, 216
+  offset: 0, 0
+  index: -1
+images/windows_light/window_light_14
+  rotate: true
+  xy: 869, 1
+  size: 128, 216
+  orig: 128, 216
+  offset: 0, 0
+  index: -1
+images/windows_light/window_light_15
+  rotate: true
+  xy: 1086, 1
+  size: 128, 216
+  orig: 128, 216
+  offset: 0, 0
+  index: -1
+images/windows_light/window_light_16
+  rotate: false
+  xy: 1303, 5
+  size: 128, 216
+  orig: 128, 216
+  offset: 0, 0
+  index: -1
+images/windows_light/window_light_17
+  rotate: false
+  xy: 1432, 5
+  size: 128, 216
+  orig: 128, 216
+  offset: 0, 0
+  index: -1
+images/windows_light/window_light_5
+  rotate: false
+  xy: 1500, 229
+  size: 128, 216
+  orig: 128, 216
+  offset: 0, 0
+  index: -1
+images/windows_light/window_light_6
+  rotate: false
+  xy: 1561, 12
+  size: 128, 216
+  orig: 128, 216
+  offset: 0, 0
+  index: -1
+images/windows_light/window_light_7
+  rotate: false
+  xy: 1629, 229
+  size: 128, 216
+  orig: 128, 216
+  offset: 0, 0
+  index: -1
+images/windows_light/window_light_8
+  rotate: false
+  xy: 1690, 12
+  size: 128, 216
+  orig: 128, 216
+  offset: 0, 0
+  index: -1
+images/windows_light/window_light_9
+  rotate: false
+  xy: 1758, 229
+  size: 128, 216
+  orig: 128, 216
+  offset: 0, 0
+  index: -1
